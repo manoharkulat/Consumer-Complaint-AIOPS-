@@ -62,3 +62,7 @@ pip install jupyter lab
 ```
 mkdir <dir_name>
 ```
+### bash cmd to copy file from one path to another
+```
+cp <local_file_path> <dir/>
+```
